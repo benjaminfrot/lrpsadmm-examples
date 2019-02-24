@@ -1,2 +1,2 @@
 # lrpsadmm-examples
-R Jupyter Notebooks showcasing the lrpsaddm R package
+R Jupyter Notebooks showcasing the lrpsadmm R package
